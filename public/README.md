@@ -8,6 +8,7 @@ PHP - PHP FILE E SCRIPT
 
 DB - FILE PER LA CONNESSIONE AL DATABASE
 
-API - INSERIRE VENDOR DI GOOGLE UTILIZZANDO COMPOSER
+API - INSERIRE VENDOR DI GOOGLE UTILIZZANDO COMPOSER  
 
-La cartella public deve contenere solo il file index.php i framework devono essere inclusi tramite CDN
+La cartella public deve contenere solo il file index.php
+i framework devono essere inclusi tramite CDN
